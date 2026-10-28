@@ -1,0 +1,11 @@
+{
+ "DEMO-SKU-1|8+256": {
+  "EURO": "https://www.euro.com.pl/telefony-komorkowe/example-phone.bhtml",
+  "OleOle": "https://www.oleole.pl/telefony-komorkowe/example-phone.bhtml",
+  "Allegro": "https://allegro.pl/oferta/example-phone-1234567890"
+ },
+ "DEMO-SKU-2|4+128|cover": {
+  "EURO": "https://www.euro.com.pl/tablety/example-tablet-with-cover.bhtml",
+  "OleOle": "https://www.oleole.pl/tablety/example-tablet-with-cover.bhtml"
+ }
+}
